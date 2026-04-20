@@ -29,4 +29,4 @@
 
 - `uv pip install customtkinter pyinstaller`
 - `uv pip show customtkinter`
-- `uv run pyinstaller --noconfirm --windowed --onedir --name 国民经济行业分类注释 --add-data "国民经济行业 分类注释.json;." --add-data "F:/VisualStudioCodeProjects/economic-explanatory-notes/.venv/Lib/site-packages/customtkinter;customtkinter/" main.py `
+- `uv run pyinstaller --noconfirm --windowed --onedir --name 国民经济行业分类注释 --add-data "国民经济行业分类注释.json;." --add-data "F:/VisualStudioCodeProjects/economic-explanatory-notes/.venv/Lib/site-packages/customtkinter;customtkinter/" main.py`
